@@ -1,0 +1,8 @@
+﻿<Window x:Name="MainWndw" x:Class="WhatColorIsNow.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Title="Clocks_Screensaver" Height="350" Width="525" WindowStartupLocation="CenterScreen" WindowState="Maximized" MouseMove="MainWndw_MouseMove" KeyDown="MainWndw_KeyDown" MouseLeftButtonDown="MainWndw_MouseLeftButtonDown" MouseRightButtonDown="MainWndw_MouseRightButtonDown">
+    <Grid x:Name="Grid_MainWindow" Background="Black"/>
+</Window>
